@@ -1,0 +1,13 @@
+body{
+    font-size: 14px;
+    width: 100%;
+    margin: auto;
+    background-attachment: fixed;
+} 
+#logo{
+    margin: 0;
+    width: 130px;
+}
+#span{
+    margin-top:10px;
+}
