@@ -2,7 +2,7 @@
     $server = "localhost";
     $username = "root";
     $password = "root";
-    $db = "club";
+    $db = "thanawat_cnrclub";
     $conn = new mysqli($server,$username,$password,$db);
     mysqli_set_charset($conn,"utf8");
 ?>
