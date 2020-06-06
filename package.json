@@ -1,0 +1,22 @@
+{
+  "name": "studentclubsystem",
+  "version": "1.0.0",
+  "description": "Club-activity-registration",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanawatgulati/Studentclubsystem.git"
+  },
+  "keywords": [
+    "student"
+  ],
+  "author": "thanawatgulati",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thanawatgulati/Studentclubsystem/issues"
+  },
+  "homepage": "https://github.com/thanawatgulati/Studentclubsystem#readme"
+}
